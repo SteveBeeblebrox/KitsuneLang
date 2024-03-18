@@ -1,0 +1,17 @@
+awaitchains.ts                 Done
+base64.ts
+colors.ts
+compression.ts
+configstring.ts                ?
+csv.ts
+encryption.ts
+filearchive.ts                 ?
+jsion.ts                       ?
+jsonstreams.ts                 ?
+
+kitsunecore.ts
+kitsunedom.ts
+kitsunelang.ts
+
+random.ts
+types.ts                       Not yet
