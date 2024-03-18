@@ -11,7 +11,7 @@ jsonstreams.ts                  Something like it?
 
 kitsunelang.ts                  TryOr and Mapping?
 
-random.ts                       Yes
+random.ts                       Yes (and hash functions?)
 types.ts                        Yes, but not yet
 
 pollyfills                      Maybe?
