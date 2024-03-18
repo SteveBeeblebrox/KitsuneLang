@@ -1,17 +1,19 @@
 awaitchains.ts                 Done
-base64.ts
-colors.ts
-compression.ts
-configstring.ts                ?
-csv.ts
-encryption.ts
-filearchive.ts                 ?
-jsion.ts                       ?
-jsonstreams.ts                 ?
+base64.ts                      Yes
+colors.ts                      Probably?
+compression.ts                 Yes
+configstring.ts                Maybe?
+csv.ts                         Yes
+encryption.ts                  Yes
+filearchive.ts                 Needs to be rewritten to not need vfs
+jsion.ts                       Maybe?
+jsonstreams.ts                 Something like it?
 
 kitsunecore.ts
 kitsunedom.ts
 kitsunelang.ts
 
-random.ts
-types.ts                       Not yet
+random.ts                      Yes
+types.ts                       Yes, but not yet
+
+pollyfills                     Maybe?
