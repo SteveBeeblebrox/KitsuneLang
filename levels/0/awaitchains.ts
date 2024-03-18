@@ -6,7 +6,6 @@
     function inlineAwaiter<T,>(thePromise: Promise<T>): Promise<T> {
         return new Proxy(thePromise, {
             get(target, property, receiver) {
-                console.log(property)
                 if(isPromiseProperty(property)) {
                     let details = '';
                     if(property === 'then') {
