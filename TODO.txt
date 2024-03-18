@@ -1,19 +1,18 @@
-awaitchains.ts                 Done
-base64.ts                      Yes
-colors.ts                      Probably?
-compression.ts                 Yes
-configstring.ts                Maybe?
-csv.ts                         Yes
-encryption.ts                  Yes
-filearchive.ts                 Needs to be rewritten to not need vfs
-jsion.ts                       Maybe?
-jsonstreams.ts                 Something like it?
+awaitchains.ts                  Done
+base64.ts                       Yes
+colors.ts                       Probably?
+compression.ts                  Yes
+configstring.ts                 Maybe?
+csv.ts                          Yes
+encryption.ts                   Yes
+filearchive.ts                  Needs to be rewritten to not need vfs
+jsion.ts                        Maybe?
+jsonstreams.ts                  Something like it?
 
-kitsunecore.ts
-kitsunedom.ts
-kitsunelang.ts
+kitsunelang.ts                  TryOr and Mapping?
 
-random.ts                      Yes
-types.ts                       Yes, but not yet
+random.ts                       Yes
+types.ts                        Yes, but not yet
 
-pollyfills                     Maybe?
+pollyfills                      Maybe?
+operators                       Not yet, needs integration with mtsc
